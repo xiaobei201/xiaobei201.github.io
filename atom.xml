@@ -6,7 +6,7 @@
   <link href="https://xiaobei201.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiaobei201.github.io/"/>
-  <updated>2023-07-25T04:32:56.644Z</updated>
+  <updated>2022-07-05T12:25:44.230Z</updated>
   <id>https://xiaobei201.github.io/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://xiaobei201.github.io/2023/07/31/html%20stydy/"/>
+    <id>https://xiaobei201.github.io/2023/07/31/html%20stydy/</id>
+    <published>2023-07-31T05:08:29.048Z</published>
+    <updated>2022-07-05T12:25:44.230Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;html-stdy（VS-code）&quot;&gt;&lt;a href=&quot;#html-stdy（VS-code）&quot; class=&quot;headerlink&quot; title=&quot;html stdy（VS code）&quot;&gt;&lt;/a&gt;html stdy（VS</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://xiaobei201.github.io/2023/07/31/%E5%AD%A6%E4%B9%A0JavaScript/"/>
+    <id>https://xiaobei201.github.io/2023/07/31/%E5%AD%A6%E4%B9%A0JavaScript/</id>
+    <published>2023-07-31T05:07:40.971Z</published>
+    <updated>2023-07-14T07:51:45.569Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;学习JavaScript&quot;&gt;&lt;a href=&quot;#学习JavaScript&quot; class=&quot;headerlink&quot; title=&quot;学习JavaScript&quot;&gt;&lt;/a&gt;学习JavaScript&lt;/h1&gt;&lt;h2 id=&quot;JavaScript组成&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
